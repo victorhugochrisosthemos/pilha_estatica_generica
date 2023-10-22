@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1697918969 source:c:\users\victor\desktop\estudos\estrutura_de_dados\pilha_estatica_generica\main.cpp
+	<iostream>
+	"modulo_implementacao.h"
+
+1697919222 c:\users\victor\desktop\estudos\estrutura_de_dados\pilha_estatica_generica\modulo_implementacao.h
+
